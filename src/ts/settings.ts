@@ -4,7 +4,8 @@ export const settings = {
             {sx: 6, sy: 982},
             {sx: 62, sy: 982},
             {sx: 118, sy: 982}
-        ]
+        ],
+        gravity: 0.5
     },
     background: {
         frame: {
